@@ -1,8 +1,9 @@
-[in arabic](./README-AR.md)
-
 # Sunnah
-collection of all Sunnah.com hadiths      
-if you want access to the code go to [here](https://github.com/TheMuslimDB/Sunnah/tree/code)      
+scraped Sunnah.com hadiths              
+if you want access to the data go to [here](https://github.com/TheMuslimDB/Sunnah/tree/data)            
+if you want access to the code go to [here](https://github.com/TheMuslimDB/Sunnah/tree/code)            
 
-# Currect Hadiths
-- Forty Hadith of an-Nawawi
+# Whats Here
+- Forty Hadith of an-Nawawi       
+- Riyad As Salihin            
+- Bukhari         
